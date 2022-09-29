@@ -1,7 +1,5 @@
-# Hi, I'm JayAtFlight!
-### _On twitter I'm [@jayatflyt](https://twitter.com/jayatflyt). Follow me there for more info!_
-
-_Also, if you want to reach me, that's the place to do it for now! (Website under construction but when it's ready, it will be at [jayatflyt.com](jayatflyt.com)!)_
+# [Hi, I'm JayAtFlyt!](https://www.jayatflyt.com)
+### _On twitter I'm [@jayatflyt](https://twitter.com/jayatflyt)._
 
 #### Currently, I'm working on a new dash interface for my car named Starship, after my car!
 
